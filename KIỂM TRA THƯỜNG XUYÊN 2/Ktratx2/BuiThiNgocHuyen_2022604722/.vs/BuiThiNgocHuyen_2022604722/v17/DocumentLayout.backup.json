@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\STUDY\\Third_year_student\\.NET\\KI\u1EC2M TRA TH\u01AF\u1EDCNG XUY\u00CAN 2\\Ktratx2\\BuiThiNgocHuyen_2022604722\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7DC5A-FF61-44E3-89F7-79F3BAE22C40}|BuiThiNgocHuyen_2022604722.csproj|c:\\study\\third_year_student\\.net\\ki\u1EC3m tra th\u01B0\u1EDDng xuy\u00EAn 2\\ktratx2\\buithingochuyen_2022604722\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7DC5A-FF61-44E3-89F7-79F3BAE22C40}|BuiThiNgocHuyen_2022604722.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7DC5A-FF61-44E3-89F7-79F3BAE22C40}|BuiThiNgocHuyen_2022604722.csproj|c:\\study\\third_year_student\\.net\\ki\u1EC3m tra th\u01B0\u1EDDng xuy\u00EAn 2\\ktratx2\\buithingochuyen_2022604722\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DEB7DC5A-FF61-44E3-89F7-79F3BAE22C40}|BuiThiNgocHuyen_2022604722.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7DC5A-FF61-44E3-89F7-79F3BAE22C40}|BuiThiNgocHuyen_2022604722.csproj|c:\\study\\third_year_student\\.net\\ki\u1EC3m tra th\u01B0\u1EDDng xuy\u00EAn 2\\ktratx2\\buithingochuyen_2022604722\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7DC5A-FF61-44E3-89F7-79F3BAE22C40}|BuiThiNgocHuyen_2022604722.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7DC5A-FF61-44E3-89F7-79F3BAE22C40}|BuiThiNgocHuyen_2022604722.csproj|c:\\study\\third_year_student\\.net\\ki\u1EC3m tra th\u01B0\u1EDDng xuy\u00EAn 2\\ktratx2\\buithingochuyen_2022604722\\displaywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7DC5A-FF61-44E3-89F7-79F3BAE22C40}|BuiThiNgocHuyen_2022604722.csproj|solutionrelative:displaywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7DC5A-FF61-44E3-89F7-79F3BAE22C40}|BuiThiNgocHuyen_2022604722.csproj|c:\\study\\third_year_student\\.net\\ki\u1EC3m tra th\u01B0\u1EDDng xuy\u00EAn 2\\ktratx2\\buithingochuyen_2022604722\\displaywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DEB7DC5A-FF61-44E3-89F7-79F3BAE22C40}|BuiThiNgocHuyen_2022604722.csproj|solutionrelative:displaywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\KI\u1EC2M TRA TH\u01AF\u1EDCNG XUY\u00CAN 2\\Ktratx2\\BuiThiNgocHuyen_2022604722\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\KI\u1EC2M TRA TH\u01AF\u1EDCNG XUY\u00CAN 2\\Ktratx2\\BuiThiNgocHuyen_2022604722\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:33:10.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\KI\u1EC2M TRA TH\u01AF\u1EDCNG XUY\u00CAN 2\\Ktratx2\\BuiThiNgocHuyen_2022604722\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\KI\u1EC2M TRA TH\u01AF\u1EDCNG XUY\u00CAN 2\\Ktratx2\\BuiThiNgocHuyen_2022604722\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-11T08:32:06.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\KI\u1EC2M TRA TH\u01AF\u1EDCNG XUY\u00CAN 2\\Ktratx2\\BuiThiNgocHuyen_2022604722\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\KI\u1EC2M TRA TH\u01AF\u1EDCNG XUY\u00CAN 2\\Ktratx2\\BuiThiNgocHuyen_2022604722\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:32:36.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayWindow.xaml.cs",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\KI\u1EC2M TRA TH\u01AF\u1EDCNG XUY\u00CAN 2\\Ktratx2\\BuiThiNgocHuyen_2022604722\\DisplayWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DisplayWindow.xaml.cs",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\KI\u1EC2M TRA TH\u01AF\u1EDCNG XUY\u00CAN 2\\Ktratx2\\BuiThiNgocHuyen_2022604722\\DisplayWindow.xaml.cs",
+              "RelativeToolTip": "DisplayWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:36:07.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisplayWindow.xaml",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\KI\u1EC2M TRA TH\u01AF\u1EDCNG XUY\u00CAN 2\\Ktratx2\\BuiThiNgocHuyen_2022604722\\DisplayWindow.xaml",
+              "RelativeDocumentMoniker": "DisplayWindow.xaml",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\KI\u1EC2M TRA TH\u01AF\u1EDCNG XUY\u00CAN 2\\Ktratx2\\BuiThiNgocHuyen_2022604722\\DisplayWindow.xaml",
+              "RelativeToolTip": "DisplayWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-11T08:32:36.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

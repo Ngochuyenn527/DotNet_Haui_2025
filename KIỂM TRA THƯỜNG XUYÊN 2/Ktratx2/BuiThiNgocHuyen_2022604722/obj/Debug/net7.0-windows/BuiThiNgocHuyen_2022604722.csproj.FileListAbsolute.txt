@@ -1,0 +1,68 @@
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\DisplayWindow.g.cs
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\App.g.cs
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722_MarkupCompile.cache
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722_MarkupCompile.lref
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.exe
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.deps.json
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.runtimeconfig.json
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.dll
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.pdb
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\DisplayWindow.baml
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\MainWindow.baml
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.g.resources
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.GeneratedMSBuildEditorConfig.editorconfig
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.AssemblyInfoInputs.cache
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.AssemblyInfo.cs
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.csproj.CoreCompileInputs.cache
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.dll
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\refint\BuiThiNgocHuyen_2022604722.dll
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.pdb
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.genruntimeconfig.cache
+D:\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\ref\BuiThiNgocHuyen_2022604722.dll
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.exe
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.deps.json
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.runtimeconfig.json
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.dll
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.pdb
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\DisplayWindow.g.cs
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\App.g.cs
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722_MarkupCompile.cache
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722_MarkupCompile.lref
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\DisplayWindow.baml
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\MainWindow.baml
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.g.resources
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.AssemblyInfoInputs.cache
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.AssemblyInfo.cs
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.csproj.CoreCompileInputs.cache
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.sourcelink.json
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.dll
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\refint\BuiThiNgocHuyen_2022604722.dll
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.pdb
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.genruntimeconfig.cache
+C:\STUDY\Third_year_student\.NET\KT\BuiThiNgocHuyen_2022604722\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\ref\BuiThiNgocHuyen_2022604722.dll
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.exe
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.deps.json
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.runtimeconfig.json
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.dll
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\bin\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.pdb
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\DisplayWindow.g.cs
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\App.g.cs
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722_MarkupCompile.cache
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722_MarkupCompile.lref
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\DisplayWindow.baml
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\MainWindow.baml
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.g.resources
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.AssemblyInfoInputs.cache
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.AssemblyInfo.cs
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.csproj.CoreCompileInputs.cache
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.sourcelink.json
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.dll
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\refint\BuiThiNgocHuyen_2022604722.dll
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.pdb
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\BuiThiNgocHuyen_2022604722.genruntimeconfig.cache
+C:\STUDY\Third_year_student\.NET\KIỂM TRA THƯỜNG XUYÊN 2\Ktratx2\BuiThiNgocHuyen_2022604722\obj\Debug\net7.0-windows\ref\BuiThiNgocHuyen_2022604722.dll

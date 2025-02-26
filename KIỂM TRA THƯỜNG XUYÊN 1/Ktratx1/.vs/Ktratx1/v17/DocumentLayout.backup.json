@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\STUDY\\Third_year_student\\.NET\\Ktratx1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{081E8412-EEFB-4E1C-8D51-77983BA29483}|Ktratx1.csproj|c:\\study\\third_year_student\\.net\\ktratx1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8412-EEFB-4E1C-8D51-77983BA29483}|Ktratx1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E8412-EEFB-4E1C-8D51-77983BA29483}|Ktratx1.csproj|c:\\study\\third_year_student\\.net\\ktratx1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8412-EEFB-4E1C-8D51-77983BA29483}|Ktratx1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E8412-EEFB-4E1C-8D51-77983BA29483}|Ktratx1.csproj|c:\\study\\third_year_student\\.net\\ktratx1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8412-EEFB-4E1C-8D51-77983BA29483}|Ktratx1.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\Ktratx1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\Ktratx1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAADYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:10:33.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\Ktratx1\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\Ktratx1\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAA4AAAAQMTMzMzMhwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:58:09.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\Ktratx1\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\Ktratx1\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAABEAAAAAipmZmZn7vwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:58:06.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿<Window x:Class="BuiThiNgocHuyen_2022604722.DisplayWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BuiThiNgocHuyen_2022604722"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="DisplayWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Danh sách nhân viên làm ca 3" HorizontalAlignment="Center" Margin="0,25,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="24" FontWeight="Bold" HorizontalContentAlignment="Center"/>
+        <DataGrid Name="dgvCa3" Margin="0,68,0,0" CanUserAddRows="False" AutoGenerateColumns="False" >
+            <DataGrid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="1.141"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="1.892"/>
+                </TransformGroup>
+            </DataGrid.RenderTransform>
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="FontWeight" Value="Bold"></Setter>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã nhân viên" Binding="{Binding ID}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Từ ngày" Binding="{Binding DateFrom , StringFormat=dd/MM/yyyy}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Đến ngày" Binding="{Binding DateTo, StringFormat=dd/MM/yyyy}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Ca làm việc" Binding="{Binding WorkTime}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

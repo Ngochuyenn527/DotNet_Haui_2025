@@ -1,0 +1,15 @@
+C:\STUDY\Third_year_student\.NET\Ktratx1\bin\Debug\net9.0\Ktratx1.exe
+C:\STUDY\Third_year_student\.NET\Ktratx1\bin\Debug\net9.0\Ktratx1.deps.json
+C:\STUDY\Third_year_student\.NET\Ktratx1\bin\Debug\net9.0\Ktratx1.runtimeconfig.json
+C:\STUDY\Third_year_student\.NET\Ktratx1\bin\Debug\net9.0\Ktratx1.dll
+C:\STUDY\Third_year_student\.NET\Ktratx1\bin\Debug\net9.0\Ktratx1.pdb
+C:\STUDY\Third_year_student\.NET\Ktratx1\obj\Debug\net9.0\Ktratx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDY\Third_year_student\.NET\Ktratx1\obj\Debug\net9.0\Ktratx1.AssemblyInfoInputs.cache
+C:\STUDY\Third_year_student\.NET\Ktratx1\obj\Debug\net9.0\Ktratx1.AssemblyInfo.cs
+C:\STUDY\Third_year_student\.NET\Ktratx1\obj\Debug\net9.0\Ktratx1.csproj.CoreCompileInputs.cache
+C:\STUDY\Third_year_student\.NET\Ktratx1\obj\Debug\net9.0\Ktratx1.sourcelink.json
+C:\STUDY\Third_year_student\.NET\Ktratx1\obj\Debug\net9.0\Ktratx1.dll
+C:\STUDY\Third_year_student\.NET\Ktratx1\obj\Debug\net9.0\refint\Ktratx1.dll
+C:\STUDY\Third_year_student\.NET\Ktratx1\obj\Debug\net9.0\Ktratx1.pdb
+C:\STUDY\Third_year_student\.NET\Ktratx1\obj\Debug\net9.0\Ktratx1.genruntimeconfig.cache
+C:\STUDY\Third_year_student\.NET\Ktratx1\obj\Debug\net9.0\ref\Ktratx1.dll
