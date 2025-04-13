@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\decachieu\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|solutionrelative:decachieu\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\dethi\\models\\qlcongnhancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|solutionrelative:dethi\\models\\qlcongnhancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\models\\qlsachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\models\\qlsachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\decachieu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|solutionrelative:decachieu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\dethi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|solutionrelative:dethi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\models\\qlsachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\models\\qlsachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\decachieu\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|solutionrelative:decachieu\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\dethi\\models\\qlcongnhancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|solutionrelative:dethi\\models\\qlcongnhancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\decachieu\\models\\qlnscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,14 +59,6 @@
       "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\models\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\dethi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|solutionrelative:dethi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,16 +67,8 @@
       "RelativeMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|solutionrelative:decachieu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\baimau.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\baimau.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\decachieu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|solutionrelative:decachieu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|c:\\study\\third_year_student\\.net\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\dethi\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,55 +106,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QLCongNhanContext.cs",
-              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\QLCongNhanContext.cs",
-              "RelativeDocumentMoniker": "DeThi\\Models\\QLCongNhanContext.cs",
-              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\QLCongNhanContext.cs",
-              "RelativeToolTip": "DeThi\\Models\\QLCongNhanContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T14:28:31.78Z"
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BaiMau\\MainWindow.xaml",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\MainWindow.xaml",
+              "RelativeToolTip": "BaiMau\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T06:43:58.269Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TacGia.cs",
-              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\TacGia.cs",
-              "RelativeDocumentMoniker": "BaiMau\\Models\\TacGia.cs",
-              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\TacGia.cs",
-              "RelativeToolTip": "BaiMau\\Models\\TacGia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T14:28:18.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Phong.cs",
-              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\Phong.cs",
-              "RelativeDocumentMoniker": "DeThi\\Models\\Phong.cs",
-              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\Phong.cs",
-              "RelativeToolTip": "DeThi\\Models\\Phong.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T14:28:01.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "BaiMau\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\MainWindow.xaml.cs",
-              "RelativeToolTip": "BaiMau\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAuwL8AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T06:44:38.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "QLNSContext.cs",
               "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\Models\\QLNSContext.cs",
               "RelativeDocumentMoniker": "DeCaChieu\\Models\\QLNSContext.cs",
@@ -166,30 +130,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Sach.cs",
               "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\Sach.cs",
               "RelativeDocumentMoniker": "BaiMau\\Models\\Sach.cs",
-              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\Sach.cs",
-              "RelativeToolTip": "BaiMau\\Models\\Sach.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\Sach.cs*",
+              "RelativeToolTip": "BaiMau\\Models\\Sach.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T06:50:06.672Z"
+              "WhenOpened": "2025-02-25T06:50:06.672Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DeThi\\MainWindow.xaml",
-              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\MainWindow.xaml",
-              "RelativeToolTip": "DeThi\\MainWindow.xaml",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\MainWindow.xaml*",
+              "RelativeToolTip": "DeThi\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-25T12:12:40.524Z"
+              "WhenOpened": "2025-02-25T12:12:40.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "DetailWindow.xaml",
               "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\DetailWindow.xaml",
               "RelativeDocumentMoniker": "DeCaChieu\\DetailWindow.xaml",
@@ -201,6 +167,30 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DeCaChieu\\MainWindow.xaml",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\MainWindow.xaml",
+              "RelativeToolTip": "DeCaChieu\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T12:37:57.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TacGia.cs",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\TacGia.cs",
+              "RelativeDocumentMoniker": "BaiMau\\Models\\TacGia.cs",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\TacGia.cs",
+              "RelativeToolTip": "BaiMau\\Models\\TacGia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:28:18.661Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "QlsachContext.cs",
               "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\QlsachContext.cs",
@@ -209,11 +199,49 @@
               "RelativeToolTip": "BaiMau\\Models\\QlsachContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T14:28:49.194Z"
+              "WhenOpened": "2025-02-25T14:28:49.194Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BaiMau\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BaiMau\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAuwL8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:44:38.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Phong.cs",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\Phong.cs",
+              "RelativeDocumentMoniker": "DeThi\\Models\\Phong.cs",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\Phong.cs",
+              "RelativeToolTip": "DeThi\\Models\\Phong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:28:01.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QLCongNhanContext.cs",
+              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\QLCongNhanContext.cs",
+              "RelativeDocumentMoniker": "DeThi\\Models\\QLCongNhanContext.cs",
+              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\QLCongNhanContext.cs",
+              "RelativeToolTip": "DeThi\\Models\\QLCongNhanContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:28:31.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DeCaChieu\\MainWindow.xaml.cs",
@@ -225,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "PhongBan.cs",
               "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\Models\\PhongBan.cs",
               "RelativeDocumentMoniker": "DeCaChieu\\Models\\PhongBan.cs",
@@ -237,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "NhanVien.cs",
               "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\Models\\NhanVien.cs",
               "RelativeDocumentMoniker": "DeCaChieu\\Models\\NhanVien.cs",
@@ -249,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CongNhan.cs",
               "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\CongNhan.cs",
               "RelativeDocumentMoniker": "DeThi\\Models\\CongNhan.cs",
@@ -258,17 +286,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T12:47:16.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "BaiMau\\MainWindow.xaml",
-              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\MainWindow.xaml",
-              "RelativeToolTip": "BaiMau\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-25T06:43:58.269Z"
             },
             {
               "$type": "Document",
@@ -283,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DeThi\\MainWindow.xaml.cs",
@@ -292,17 +309,6 @@
               "ViewState": "AgIAAKQAAAAAAAAAAAAuwLsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T12:12:45.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "DeCaChieu\\MainWindow.xaml",
-              "ToolTip": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\MainWindow.xaml",
-              "RelativeToolTip": "DeCaChieu\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-25T12:37:57.734Z"
             },
             {
               "$type": "Document",
@@ -318,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BaiMau.csproj",
               "DocumentMoniker": "C:\\STUDY\\Third_year_student\\.NET\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\BaiMau.csproj",
               "RelativeDocumentMoniker": "BaiMau\\BaiMau.csproj",
@@ -326,8 +332,7 @@
               "RelativeToolTip": "BaiMau\\BaiMau.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-25T14:14:30.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T14:14:30.872Z"
             },
             {
               "$type": "Document",
